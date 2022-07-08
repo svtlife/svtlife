@@ -17,7 +17,7 @@
 ![VSCODE](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logoColor=white&logo=visualstudiocode)
 ![WEBPACK](https://img.shields.io/badge/-WEBpack_Code-8DD6F9?style=for-the-badge&logoColor=black&logo=webpack)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svtlife&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svtlife&theme=dracula&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svtlife&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
